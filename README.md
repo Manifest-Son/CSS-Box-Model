@@ -9,7 +9,7 @@ The CSS box model  applies to block boxes and defines how the different parts of
 - **content** - The content of the box, where text and images appear.
 
 A clear view of the box model  
-![Box Model Picture](assets\box-model.png)  
+![Box Model Picture](https://github.com/Manifest-Son/CSS-Box-Model/blob/first_commit/assets/box-model.png)  
 ## Further explanation of the box parts
 ### Margin
 The margin is an invisible space around your box. It pushes other elements away from the box.  
@@ -53,7 +53,8 @@ h1{
 
 The four values in both margin and padding follow in this order:  
 _top_ _right_ _bottom_ _left_.  
-Here is the output.
-![CSS applied on a heading](assets\heading.png)
 
-Congratulations having gone through this README.md file and certain that you understand the Box Model.
+Here is the output.  
+![CSS applied on a heading](https://github.com/Manifest-Son/CSS-Box-Model/blob/first_commit/assets/heading.png)
+
+Congratulations!! Having gone through this README.md file and certain that you understand the Box Model.
