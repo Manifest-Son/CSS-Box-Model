@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [CSS BOX MODEL](#css-box-model)
+  - [What is a CSS Box Model](#what-is-a-css-box-model)
+  - [What are the parts of a box](#what-are-the-parts-of-a-box)
+  - [Further explanation of the box parts](#further-explanation-of-the-box-parts)
+    - [Margin](#margin)
+    - [Padding](#padding)
+    - [Border](#border)
+  - [Box model in action💡](#box-model-in-action)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # CSS BOX MODEL
 ## What is a CSS Box Model
 The CSS box model  applies to block boxes and defines how the different parts of a box - ```margin```, ```border```,```padding```, and ```content``` - work together to create a box that you can see on a page. Inline boxes use just some of the behavior defined in the box model.
